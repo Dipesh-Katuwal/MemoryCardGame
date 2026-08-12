@@ -1,6 +1,6 @@
 # Memory Card Game
 
-🔗**[Live Demo](https://dipesh-katuwal.github.io/MemoryCardGame/)**
+🔗 **[Live Demo](https://dipesh-katuwal.github.io/MemoryCardGame/)**
 
 A small memory matching game built with React and Vite. The player flips cards to find matching fruit icons, keeps score, tracks moves, and wins when all cards are matched.
 
