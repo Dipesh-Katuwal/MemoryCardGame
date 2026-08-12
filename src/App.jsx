@@ -7,10 +7,10 @@ import { GameOver } from "./components/GameOver";
 
 function App() {
   const fruits = [
-    { fruit_icon: "🍎", count: 0, face: 0, unknown: "❔", tick: "" },
-    { fruit_icon: "🍇", count: 0, face: 0, unknown: "❔", tick: "" },
-    { fruit_icon: "🍉", count: 0, face: 0, unknown: "❔", tick: "" },
-    { fruit_icon: "🍌", count: 0, face: 0, unknown: "❔", tick: "" },
+    { fruit_icon: "🍎", count: 0, face: 0, unknown: "?", tick: "" },
+    { fruit_icon: "🍇", count: 0, face: 0, unknown: "?", tick: "" },
+    { fruit_icon: "🍉", count: 0, face: 0, unknown: "?", tick: "" },
+    { fruit_icon: "🍌", count: 0, face: 0, unknown: "?", tick: "" },
   ];
 
   const [clicked_fruits, setClickedFruits] = useState([]);
